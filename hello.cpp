@@ -310,7 +310,7 @@ void q30() {
 
 int main() {
     cout << "call any function: " << endl;
-    
+ cout << "q1 to q30" << endl;   
 
     return 0;
 }
